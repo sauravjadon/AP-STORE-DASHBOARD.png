@@ -5,14 +5,14 @@ The dashboard provides a clear, visual representation of sales performance, cust
 
 ---
 
-🔍 Purpose 
+🔍 Purpose   
 The AP Store Annual Sales Report is designed to offer quick, actionable insights into sales, orders, customers, states, and product categories.
 It enables the store owner to identify high-performing regions, track purchasing trends, and take data-driven steps to grow the business in 2025.
 
 ---
 
 🛠 Tech Stack  
-The dashboard was built using:
+The dashboard was built using:  
 • Excel – Data cleaning, processing, and visualization
 • Pivot Tables & Charts – Interactive analysis
 • Slicers & Filters – Drill-down and dynamic reports
@@ -20,9 +20,9 @@ The dashboard was built using:
 
 ---
 
-📂 Data Source
+📂 Data Source  
 The dataset contains AP Store’s ecommerce sales records for 2024.
-It includes:
+It includes:  
 • Sales and order details
 • Customer demographics (age, gender)
 • State-wise sales distribution
@@ -31,13 +31,13 @@ It includes:
 
 ---
 
-🌟 Features and Highlights
-Business Problem
+🌟 Features and Highlights  
+Business Problem  
 AP Store wanted to understand their sales performance and customers but lacked a consolidated reporting tool.
 
 ---
 
-Goal of the Dashboard
+Goal of the Dashboard  
 To create an interactive Excel dashboard that:
 • Tracks sales and orders
 • Shows top states and customer segments
@@ -46,7 +46,7 @@ To create an interactive Excel dashboard that:
 
 ---
 
-Walkthrough of Key Visuals
+Walkthrough of Key Visuals  
 • Sales vs Orders (Combo Chart) – Trend comparison
 • Orders by Gender (Pie Chart) – Contribution of men vs women
 • Top 10 States (Bar Chart) – Regional sales strength
@@ -57,7 +57,7 @@ Walkthrough of Key Visuals
 
 ---
 
-Business Impact & Insights
+Business Impact & Insights  
 • Women contributed ~64% of sales
 • Age group 30–49 years led with ~50% purchases
 • Maharashtra, Karnataka & UP were top contributing states
@@ -66,7 +66,7 @@ Business Impact & Insights
 
 ---
 
-📌 Key Learnings from the Project
+📌 Key Learnings from the Project  
 • Created a complete sales dashboard only in Excel
 • Applied data cleaning, processing and visualization
 • Used Pivot Tables, Charts and Slicers for interactivity
@@ -74,6 +74,6 @@ Business Impact & Insights
 
 ---
 
-📸 Screenshot
-Below is the preview of the dashboard:
+📸 Screenshot  
+Below is the preview of the dashboard:  
 <img width="1380" height="712" alt="Screenshot 2025-10-01 at 4 06 52 PM" src="https://github.com/user-attachments/assets/e2a0fd35-d7be-41a6-ae4a-5a4307957df8" />
