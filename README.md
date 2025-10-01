@@ -1,12 +1,15 @@
-# AP-STORE-DASHBOARD.png
+# AP-Store-Annual-Sales-Report-2024
 AP-Store-Annual-Sales-Report-2024
+
 
 An interactive Excel dashboard built to help the owner of AP Store track and analyze their annual sales for 2024.
 The dashboard provides a clear, visual representation of sales performance, customer behavior, and order patterns – enabling smarter business decisions.
 
+
 🔍 Purpose
 The AP Store Annual Sales Report is designed to offer quick, actionable insights into sales, orders, customers, states, and product categories.
 It enables the store owner to identify high-performing regions, track purchasing trends, and take data-driven steps to grow the business in 2025.
+
 
 🛠 Tech Stack
 The dashboard was built using:
@@ -14,6 +17,7 @@ The dashboard was built using:
 • Pivot Tables & Charts – Interactive analysis
 • Slicers & Filters – Drill-down and dynamic reports
 • File Format – .xlsx for source file, .png for preview images
+
 
 📂 Data Source
 The dataset contains AP Store’s ecommerce sales records for 2024.
@@ -24,10 +28,13 @@ It includes:
 • Sales channels (Amazon, Flipkart, Myntra)
 • Product categories
 
+
 🌟 Features and Highlights
+
 
 Business Problem
 AP Store wanted to understand their sales performance and customers but lacked a consolidated reporting tool.
+
 
 Goal of the Dashboard
 To create an interactive Excel dashboard that:
@@ -35,6 +42,7 @@ To create an interactive Excel dashboard that:
 • Shows top states and customer segments
 • Analyzes age and gender contribution
 • Highlights platform and category performance
+
 
 Walkthrough of Key Visuals
 • Sales vs Orders (Combo Chart) – Trend comparison
@@ -45,6 +53,7 @@ Walkthrough of Key Visuals
 • Sales by Channel (Donut Chart) – Amazon, Flipkart, Myntra share
 • Sales by Category (Bar Chart) – Best selling categories
 
+
 Business Impact & Insights
 • Women contributed ~64% of sales
 • Age group 30–49 years led with ~50% purchases
@@ -52,11 +61,13 @@ Business Impact & Insights
 • Amazon, Flipkart & Myntra made up ~80% of total sales
 • The dashboard helps in targeting key customer groups and planning better strategies for 2025.
 
+
 📌 Key Learnings from the Project
 • Created a complete sales dashboard only in Excel
 • Applied data cleaning, processing and visualization
 • Used Pivot Tables, Charts and Slicers for interactivity
 • Converted raw data into meaningful business insights
+
 
 📸 Screenshot
 Below is the preview of the dashboard:
