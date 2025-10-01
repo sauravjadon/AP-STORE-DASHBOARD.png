@@ -11,7 +11,7 @@ It enables the store owner to identify high-performing regions, track purchasing
 
 ---
 
-🛠 Tech Stack
+🛠 Tech Stack  
 The dashboard was built using:
 • Excel – Data cleaning, processing, and visualization
 • Pivot Tables & Charts – Interactive analysis
