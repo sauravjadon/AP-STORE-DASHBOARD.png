@@ -6,7 +6,7 @@ An interactive Excel dashboard built to help the owner of AP Store track and ana
 The dashboard provides a clear, visual representation of sales performance, customer behavior, and order patterns – enabling smarter business decisions.
 
 
-🔍 Purpose
+🔍 Purpose 
 The AP Store Annual Sales Report is designed to offer quick, actionable insights into sales, orders, customers, states, and product categories.
 It enables the store owner to identify high-performing regions, track purchasing trends, and take data-driven steps to grow the business in 2025.
 
