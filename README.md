@@ -2,11 +2,13 @@
 
 An interactive Excel dashboard built to help the owner of AP Store track and analyze their annual sales for 2024.
 The dashboard provides a clear, visual representation of sales performance, customer behavior, and order patterns – enabling smarter business decisions.
+
 ---
 
 🔍 Purpose 
 The AP Store Annual Sales Report is designed to offer quick, actionable insights into sales, orders, customers, states, and product categories.
 It enables the store owner to identify high-performing regions, track purchasing trends, and take data-driven steps to grow the business in 2025.
+
 ---
 
 🛠 Tech Stack
@@ -15,6 +17,7 @@ The dashboard was built using:
 • Pivot Tables & Charts – Interactive analysis
 • Slicers & Filters – Drill-down and dynamic reports
 • File Format – .xlsx for source file, .png for preview images
+
 ---
 
 📂 Data Source
@@ -25,11 +28,13 @@ It includes:
 • State-wise sales distribution
 • Sales channels (Amazon, Flipkart, Myntra)
 • Product categories
+
 ---
 
 🌟 Features and Highlights
 Business Problem
 AP Store wanted to understand their sales performance and customers but lacked a consolidated reporting tool.
+
 ---
 
 Goal of the Dashboard
@@ -38,6 +43,7 @@ To create an interactive Excel dashboard that:
 • Shows top states and customer segments
 • Analyzes age and gender contribution
 • Highlights platform and category performance
+
 ---
 
 Walkthrough of Key Visuals
@@ -48,6 +54,7 @@ Walkthrough of Key Visuals
 • Order Status (Pie Chart) – Delivered, returned, cancelled
 • Sales by Channel (Donut Chart) – Amazon, Flipkart, Myntra share
 • Sales by Category (Bar Chart) – Best selling categories
+
 ---
 
 Business Impact & Insights
@@ -56,6 +63,7 @@ Business Impact & Insights
 • Maharashtra, Karnataka & UP were top contributing states
 • Amazon, Flipkart & Myntra made up ~80% of total sales
 • The dashboard helps in targeting key customer groups and planning better strategies for 2025.
+
 ---
 
 📌 Key Learnings from the Project
@@ -63,6 +71,7 @@ Business Impact & Insights
 • Applied data cleaning, processing and visualization
 • Used Pivot Tables, Charts and Slicers for interactivity
 • Converted raw data into meaningful business insights
+
 ---
 
 📸 Screenshot
