@@ -32,21 +32,17 @@ It includes:
 ---
 
 🌟 Features and Highlights    
-Business Problem    
+1.Business Problem    
 AP Store wanted to understand their sales performance and customers but lacked a consolidated reporting tool.  
 
----
-
-Goal of the Dashboard  
+2.Goal of the Dashboard  
 To create an interactive Excel dashboard that:
 • Tracks sales and orders  
 • Shows top states and customer segments  
 • Analyzes age and gender contribution  
 • Highlights platform and category performance  
 
----
-
-Walkthrough of Key Visuals  
+3.Walkthrough of Key Visuals  
 • Sales vs Orders (Combo Chart) – Trend comparison  
 • Orders by Gender (Pie Chart) – Contribution of men vs women  
 • Top 10 States (Bar Chart) – Regional sales strength  
@@ -55,9 +51,7 @@ Walkthrough of Key Visuals
 • Sales by Channel (Donut Chart) – Amazon, Flipkart, Myntra share  
 • Sales by Category (Bar Chart) – Best selling categories  
 
----
-
-Business Impact & Insights  
+4.Business Impact & Insights  
 • Women contributed ~64% of sales  
 • Age group 30–49 years led with ~50% purchases  
 • Maharashtra, Karnataka & UP were top contributing states  
