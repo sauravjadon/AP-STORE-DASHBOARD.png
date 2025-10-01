@@ -37,7 +37,7 @@ It includes:
 AP Store wanted to understand their sales performance and customers but lacked a consolidated reporting tool.  
 
 2.Goal of the Dashboard  
-To create an interactive Excel dashboard that:
+To create an interactive Excel dashboard that:  
 • Tracks sales and orders  
 • Shows top states and customer segments  
 • Analyzes age and gender contribution  
